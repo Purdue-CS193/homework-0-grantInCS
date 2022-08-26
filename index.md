@@ -1,3 +1,15 @@
+# Grant Strickland's First CS193 Homework
+My Favoorite Things About CS193
+- The good teachers
+- The interesting and helpful subjects we'll be covering
+- The chance to use tools I will be using the rest of my CS career
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
