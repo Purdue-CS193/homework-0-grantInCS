@@ -1,5 +1,5 @@
 # Grant Strickland's First CS193 Homework
-My Favoorite Things About CS193
+My Favorite Things About CS193
 - The good teachers
 - The interesting and helpful subjects we'll be covering
 - The chance to use tools I will be using the rest of my CS career
